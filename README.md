@@ -11,7 +11,9 @@ Minecraft Plugin Developer
 * 🧠  I'm learning Java for MC Plugins and TS for Discord bots
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.github.com/EndergamerHUN" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/rakos_adam" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/rakos_adam?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
+/></a><a href="https://www.github.com/EndergamerHUN" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/EndergamerHUN?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a><a href="https://www.twitch.tv/endergamer_hun" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/endergamer_hun?logo=twitchsx&style=for-the-badge&color=facc15&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
